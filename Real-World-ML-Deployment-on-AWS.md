@@ -8,7 +8,7 @@ Design and deploy a scalable machine learning inference system on AWS that proce
 
 ## 🖼 1. Infrastructure Design
 
-**Architecture Diagram**: [View on Draw.io](https://drawio-app.com/#G1BsdwJ6UJuZRzDIzZArjNyDzzL7zGOy9U)
+**Architecture Diagram**: [View on Draw.io](https://drive.google.com/file/d/1UaVuL3VnmIBC1r4HXg_T2ksBwMiFK3il/view?usp=sharing)
 
 ### Components:
 
