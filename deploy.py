@@ -4,7 +4,7 @@ from sagemaker.pytorch import PyTorchModel
 
 # Initialize session
 session = sagemaker.Session()
-role = 'arn:aws:iam::<your-account-id>:role/sagemaker-execution-role'  # Replace with output of terraform
+role = 'arn:aws:iam::590821359854:role/service-role/AmazonSageMaker-ExecutionRole-20250803T210279'  # Replace with output of terraform
 
 model = PyTorchModel(
     model_data='s3://resnet-model-bucket-12345/model.tar.gz',
