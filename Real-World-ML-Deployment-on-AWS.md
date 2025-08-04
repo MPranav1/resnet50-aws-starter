@@ -115,14 +115,6 @@ cd model
 python ../deploy.py
 ```
 
-### 🔬 API Test
-
-```bash
-curl -X POST https://<API_URL>/predict   -H "x-api-key: YOUR_API_KEY"   -H "Content-Type: image/jpeg"   --data-binary "@cat.jpg"
-```
-
----
-
 ## ✅ Final Checklist
 
 | Requirement                      | Fulfilled |
