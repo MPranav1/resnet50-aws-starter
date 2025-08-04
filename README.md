@@ -1,3 +1,3 @@
 # ML AWS ResNet-50 Deployment
 
-See full instructions in the markdown answer above.
+refer to Real-World-ML-Deployment-on-AWS.md
